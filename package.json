@@ -1,0 +1,30 @@
+{
+  "name": "chat-js",
+  "version": "1.0.0",
+  "description": "JavaScript Chat create by MacArthur",
+  "main": "server.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArthurBarre/chat-javascript.git"
+  },
+  "keywords": [
+    "node",
+    "server",
+    "chat",
+    "MacArthur-Chat"
+  ],
+  "author": "MacArthur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArthurBarre/chat-javascript/issues"
+  },
+  "homepage": "https://github.com/ArthurBarre/chat-javascript#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "pusher": "^2.2.0"
+  }
+}
