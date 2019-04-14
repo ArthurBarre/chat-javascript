@@ -4,7 +4,9 @@
   "description": "JavaScript Chat create by MacArthur",
   "main": "server.js",
   "scripts": {
-    "test": "start"
+    "test": "start",
+    "start": "node server.js",
+    "git": "push"
   },
   "repository": {
     "type": "git",
